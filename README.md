@@ -1,6 +1,6 @@
 # AgileDevOpsSpring2019
 
-testing testing testing
+
 
 https://codeburst.io/software-architecture-the-difference-between-architecture-and-design-7936abdd5830
 
@@ -28,3 +28,7 @@ reusability, and security” naturally falls into place.
 ### Mahataz Khandaker
 
 This article had some concepts that were vaguely familar to me, one of which was the Factory Design Pattern. I experienced this pattern in my internship this past summer. My team's front-end application was in AngularJS. It had a large facory.js file, which was helpful because it minimized the amount of refactoring from modifying the code. The article also confirms that minimal changes are required if you want to update the code.
+
+### Dorna Mu
+
+Unlike Mahataz, I am not at all familiar with these concepts. This article was my first exposure to software architecture. It was an interesting to read and I'm excited to learn more and get hands-on experience as we progess forward in this course.
