@@ -31,4 +31,4 @@ This article had some concepts that were vaguely familar to me, one of which was
 
 ### Dorna Mu
 
-Unlike Mahataz, I am not at all familiar with these concepts. This article was my first exposure to software architecture. It was an interesting to read and I'm excited to learn more and get hands-on experience as we progess forward in this course.
+Unlike Mahataz, I am not at all familiar with these concepts. This article was my first exposure to software architecture. It was an interesting to read and I'm excited to learn more and get hands-on experience as we progess forward in this course. Thanks for sharing this article!
